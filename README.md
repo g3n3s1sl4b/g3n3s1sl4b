@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @g3n3s1sl4b
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Go,Rust,NodeJS
 - 📫 How to reach me : info@genesislab.ch
 
 <!---
